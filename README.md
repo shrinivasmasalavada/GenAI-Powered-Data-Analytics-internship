@@ -25,3 +25,7 @@ I just completed Tata's GenAI Powered Data Analytics on Forage. In the simulatio
  * Designed an AI-driven collections strategy leveraging agentic AI and
    automation, incorporating ethical AI principles, regulatory compliance, and
    scalable implementation frameworks.
+
+
+
+AI Analytics, AI Strategy, Analytical Reporting, Business Communication, Data Interpretation, Data Quality Management, Decision Making, Ethical Reasoning, Exploratory Data Analysis, Model Selection, Model Validation, Predictive Analytics, Process Automation, Regulatory Compliance, Strategic Thinking
